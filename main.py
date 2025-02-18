@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from aiogram.dispatcher.filters import Command
 import aiosqlite
 
-TOKEN = "7216240691:AAGQus0Z0NqcbLy5USkpAFDkm3R5V1cTD68"
+TOKEN = "..."
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
