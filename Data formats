@@ -16,4 +16,4 @@ Data formats
 данные в формат, понятный для другого. Обычно это какой-то текстовый формат.
 
 Наиболее распротранёнными форматами, встречающимися в современных API, являются JSON (JavaScript
-Objection)
+Objection Notation, нотация объектов JavaScript) и XML (Extensible Markup Language, расширяемый язык разметки).
